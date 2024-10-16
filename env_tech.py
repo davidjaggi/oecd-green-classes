@@ -47,4 +47,6 @@ extend_classes("F02M39-71")
 df["Extended Classes"] = df["IPC and CPC Classes"]
 df["Extended Classes"] = df["Extended Classes"].apply(extend_classes)
 # %%
-df.to_pickle("data/env_tech.pkl")
+df.head()
+# %%
+df.to_csv("data/env_tech.csv", index=False)
