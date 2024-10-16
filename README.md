@@ -1,4 +1,4 @@
-# OECD Green Patent Mapping
+# OECD Green IPC Patent Mapping
 
 The following article explains how the corresponding classes of IPC and CPC can be combined in order to be able to combine them with other datasets later on. 
 The aim of this project is to create a dataset that allows for a statistical mapping between the green IPC and CPC classifications based on the OECD green technologies.
