@@ -13,7 +13,7 @@ In a first step, I converted the table into an [Excel file](data/env_tech.xlsx) 
 Also included is an XML file that allows for a [statistical mapping between the IPC and CPC classifications](https://www.epo.org/searching-for-patents/helpful-resources/first-time-here/classification/cpc/ipccpc.html).
 For this first iteration I used all of the available mappings. In a second step, I will try to filter out the mappings that are not relevant for the IPC classification based on a specific level.
 
-The final dataset [env_tech_cpc.csv](data/env_tech_cpc.csv) contains the following columns.
+The final dataset [env_tech_cpc.csv](data/env_tech_cpc.pkl) contains the following columns.
 
 | Column Name         | Description                                |
 | ------------------- | ------------------------------------------ |
